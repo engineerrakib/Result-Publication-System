@@ -1,0 +1,534 @@
+body{
+	background:#E9F2E9;
+}
+.logo{
+	max-width:600px;
+	margin-left:695px;
+	margin-right:200px;
+	margin-top:30px;	
+}
+.picture{
+	width:25%;
+	height:25%;
+	object-fit:cover;
+}
+.scroll{
+	background:#ffffff;
+	padding:12px;
+	max-width:500px;
+	margin-top:25px;
+    margin:absolute;
+	margin-left:auto;
+	margin-right:auto;
+	color:black;
+	font-family:verdana;
+	font-size:20px;
+	font-weight:bold;
+	border-radius:6px;
+	border:4px solid #DFEBDF;
+}
+.main-page{
+	max-width:370px;
+	margin-top:40px;
+    margin:absolute;
+	margin-left:auto;
+	margin-right:auto;
+	border-radius:7px;
+	background:#DBE9DB;
+	padding:20px;
+	border-top:40px solid #0073FF;
+	border-bottom:4px solid #0073FF;
+}
+.main-page-add-subject{
+	max-width:500px;
+	margin-top:40px;
+    margin:absolute;
+	margin-left:auto;
+	margin-right:auto;
+	border-radius:7px;
+	background:#DBE9DB;
+	padding:20px;
+	border-top:7px solid #10BFDF;
+}
+.main-page-add-mark{
+	max-width:500px;
+	margin-top:40px;
+    margin:absolute;
+	margin-left:auto;
+	margin-right:auto;
+	border-radius:7px;
+	background:#DBE9DB;
+	padding:20px;
+	border-top:7px solid #0F14EA;
+}
+.main-page-passowrd-change{
+	max-width:500px;
+	margin-top:40px;
+    margin:absolute;
+	margin-left:auto;
+	margin-right:auto;
+	border-radius:7px;
+	background:#DBE9DB;
+	padding:20px;
+	border-top:7px solid #0073FF;
+}
+.main-page-view-student{
+	max-width:1000px;
+	margin-top:40px;
+    margin:absolute;
+	margin-left:auto;
+	margin-right:auto;
+	border-radius:7px;
+	background:#DBE9DB;
+	padding:20px;
+	border-top:7px solid #08A5E9;
+}
+.main-page-faculty-login{
+	max-width:500px;
+	margin-top:40px;
+    margin:absolute;
+	margin-left:auto;
+	margin-right:auto;
+	border-radius:7px;
+	background:#DBE9DB;
+	padding:20px;
+	border-top:7px solid #28C103;
+}
+.body-dashboard{
+	background:#FFFFFF;
+}
+.header-dashboard-bg{
+	background:#B7D6B7;
+    max-width:2000px;
+	min-height:20px;
+	margin-left:-8px;
+	margin-right:-8px;
+	margin-top:-8px;
+}
+.header-dashboard{
+	margin-left:272px;
+	margin-top:-140px;
+}
+.header-text-dashboard{
+	font-family:verdana;
+	font-size:20px;
+	color:#3D4E5E;
+}
+.header-text-dashboard-2{
+	font-family:Sans-Serif;
+	font-size:35px;
+	color:#000000;
+	margin-top:-14px;
+}
+.header-text-dashboard-3{
+	font-family:Sans-Serif;
+	font-size:18px;
+	color:#000000;
+	margin-top:-40px;
+	margin-left:650px;
+}
+.header-text-dashboard-4{
+	font-family:Sans-Serif;
+	font-size:18px;
+	color:#000000;
+	margin-top:-39px;
+	margin-left:1000px;
+	padding-bottom:10px;
+}
+.logo-dashboard{
+	max-width:550px;
+	margin-left:100px;
+}
+.footer-dashboard{
+	font-family:Arial;
+	text-align:center;
+	font-style:italic;
+	color:#9E9E9E;
+	font-size:14px;
+	background:#000000;
+	padding:30px;
+	position:absolute;
+	right:0;
+	left:0;
+	bottom:0;
+}
+.main-page-dashboard{
+	max-width:360px;
+	margin-top:10px;
+    margin:absolute;
+	margin-left:auto;
+	margin-right:auto;
+	border-radius:7px;
+	background:#DBE9DB;
+	padding:20px;
+}
+.main-page-student-reg{
+	max-width:500px;
+	margin-top:40px;
+    margin:absolute;
+	margin-left:auto;
+	margin-right:auto;
+	border-radius:7px;
+	background:#DBE9DB;
+	padding:20px;
+	border-top:7px solid #0DBC69;
+}
+.main-page-faculty-reg{
+	max-width:500px;
+	margin-top:40px;
+    margin:absolute;
+	margin-left:auto;
+	margin-right:auto;
+	border-radius:7px;
+	background:#DBE9DB;
+	padding:20px;
+	border-top:7px solid #9CCF0B;
+}
+.enter-roll{
+	margin-left: auto;
+	margin-right: auto;
+	font-family:verdana;
+}
+.tr-1{
+	font-size:18px;
+	font-weight:bold;
+	padding:5px;
+	border:2px solid #ccc;
+	border-radius:4px;
+	box-sizing:border-box;
+	width:230px;
+	
+}
+.tr-2{
+	font-size:18px;
+	font-weight:bold;
+	padding:5px;
+	border-radius:4px;
+	box-sizing:border-box;
+	border:none;
+	cursor:pointer;
+	width:150px;
+	margin-top:10px;
+	margin-left:160px;
+	background:#81C380;
+	color:#FFFFFF;
+	
+}
+.tr-2:hover{
+  background-color:#96C995;
+}
+.faculty-login{
+	margin-top:-10px;
+	text-align:center;
+	font-family:verdana;
+	
+}
+.login{
+	font-size:18px;
+	font-weight:bold;
+	padding:5px;
+	border-radius:4px;
+	box-sizing:border-box;
+	border:none;
+	cursor:pointer;
+	width:150px;
+	margin-top:10px;
+	margin-left:169px;
+	background:#81C380;
+	color:#FFFFFF;
+}
+.login:hover{
+  background-color:#96C995;
+}
+.register{
+	font-size:18px;
+	font-weight:bold;
+	padding:5px;
+	border-radius:4px;
+	box-sizing:border-box;
+	border:none;
+	cursor:pointer;
+	width:150px;
+	margin-top:10px;
+	margin-left:169px;
+	background:#81C380;
+	color:#FFFFFF;
+}
+.register:hover{
+  background-color:#96C995;
+}
+#register-p{
+	font-size:18px;
+	font-weight:bold;
+	padding:5px;
+	border-radius:4px;
+	box-sizing:border-box;
+	border:none;
+	cursor:pointer;
+	width:220px;
+	margin-top:10px;
+	margin-left:210px;
+	background:#81C380;
+	color:#FFFFFF;
+}
+#register-p:hover{
+  background-color:#96C995;
+}
+a.link:link{
+	text-decoration:none;
+	font-family:verdana;
+	font-size:14px;
+	color:#28a3a6;
+}
+a.link:active{
+	text-decoration:none;
+	font-family:verdana;
+	font-size:14px;
+	color:#28a3a6;
+}
+a.link:visited{
+	text-decoration:none;
+	font-family:verdana;
+	font-size:14px;
+	color:#28a3a6;
+}
+a.link:hover{
+	text-decoration:none;
+	font-family:verdana;
+	font-size:15px;
+	color:#000000;
+}
+
+.msg{
+	font-family:verdana;
+	font-size:14px;
+	color:red;
+}
+.cmd{
+	text-decoration:none;
+	text-align:center;
+	border:none;
+	font-family:verdana;
+	font-size:14px;
+	color:#FFFFFF;
+	padding:12px;
+	background:#0EAE6E;
+	border-radius:5px;
+	cursor:pointer;
+	width:60%;
+	margin-left:70px;
+	
+}
+.cmd-2{
+	text-decoration:none;
+	text-align:center;
+	border:none;
+	font-family:verdana;
+	font-size:15px;
+	color:#FFFFFF;
+	padding:12px;
+	background:#0BB0E0;
+	border-radius:5px;
+	cursor:pointer;
+	width:60%;
+	margin-left:70px;
+	
+}
+.cmd:hover{
+	text-decoration:none;
+	text-align:center;
+	border:none;
+	font-family:verdana;
+	font-size:14px;
+	color:#000000;
+	padding:12px;
+	background:#81C380;
+	border-radius:5px;
+	cursor:pointer;
+	width:60%;
+	margin-left:70px;
+}
+.cmd-2:hover{
+	text-decoration:none;
+	text-align:center;
+	border:none;
+	font-family:verdana;
+	font-size:15px;
+	color:#000000;
+	padding:12px;
+	background:#81C380;
+	border-radius:5px;
+	cursor:pointer;
+	width:60%;
+	margin-left:70px;
+}
+.dashboard-body{
+	/* text-align:center; */
+}
+#student-view-table{
+	font-family:Arial, Helvetica, sans-serif;
+	border-collapse:collapse;
+	width:80%;
+}
+#student-view-table td, #student-view-table th{
+	border:2px solid #ddd;
+	padding:8px;
+}
+#student-view-table tr:nth-child(odd){
+	background-color:#FFFFFF;
+}
+#student-view-table tr:hover{
+	background-color:#89D95A;
+}
+#student-view-table th{
+  padding-top:12px;
+  padding-bottom:12px;
+  text-align:center;
+  background-color:#04AA6D;
+  color:white;
+}
+#student-view-table th:hover{
+	background-color:#17A706;
+}
+.result-view-header{
+	margin-top:-25px;
+	font-family:Arial, Helvetica, sans-serif;
+	text-align:center;
+}
+.result-view-h1{
+	font-size:26px;
+}
+.result-view-h2{
+	font-size:20px;
+	margin-top:-16px;
+}
+.result-view-h3{
+	font-size:18px;
+	margin-top:-12px;
+}
+#marksheet-table{
+	font-family:Arial, Helvetica, sans-serif;
+	border-collapse:collapse;
+	width:45%;
+	height:250px;
+	margin:auto;
+}
+#marksheet-table td{
+	border:1px solid #ddd;
+	padding:8px;
+}
+#marksheet-table th{
+	border:1px solid #ddd;
+	font-size:16px;
+}
+#marksheet-table tr:nth-child(odd){
+	background-color:#FFFFFF;
+}
+#marksheet-table tr:hover{
+	background-color:#ddd;
+}
+#marksheet-table th{
+  padding-top:12px;
+  padding-bottom:12px;
+  text-align:center;
+  background-color:#04AA6D;
+  color:white;
+}
+#button{
+	font-size:20px;
+	width:90px;
+	height:40px;
+	border:none;
+	text-align:center;
+	border-radius:4px;
+	cursor:pointer;
+	background-color:#30B011;
+	color:#FFFFFF;
+	margin-left:630px;
+}
+#button:hover{
+  background-color:#00B0D0;
+}
+#button:active{
+  background-color:#FF7630;
+}
+@media print{
+	body * {
+		visibility:hidden;
+	}
+	.print-container, .print-container * {
+		visibility:visible;
+	}
+	
+}
+#search_again{
+	font-size:20px;
+	width:150px;
+	height:40px;
+	border:none;
+	text-align:center;
+	border-radius:4px;
+	cursor:pointer;
+	background-color:#09CCE8;
+	color:#FFFFFF;
+	margin-left:20px;
+	text-decoration:none;
+}
+#search_again:hover{
+  background-color:#00B0D0;
+}
+#search_again:active{
+  background-color:#FF7630;
+}
+#marksheet-table-data{
+	text-align:center;
+}
+.hearder-logo{
+	width:8%;
+	height:8%;
+	margin-top:30px;
+}
+/* Page Loader */
+.loader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #333333;
+  transition: opacity 0.10s, visibility 0.10s;
+}
+
+.loader--hidden {
+  opacity: 0;
+  visibility: hidden;
+}
+
+.loader::after {
+  content: "";
+  width: 75px;
+  height: 75px;
+  border: 15px solid #dddddd;
+  border-top-color: #009578;
+  border-radius: 50%;
+  animation: loading 0.10s ease infinite;
+}
+
+@keyframes loading {
+  from {
+    transform: rotate(0turn);
+  }
+  to {
+    transform: rotate(1turn);
+  }
+}
+.footer{
+	font-family:Arial;
+	text-align:center;
+	font-style:italic;
+	color:#9E9E9E;
+	font-size:14px;
+}
